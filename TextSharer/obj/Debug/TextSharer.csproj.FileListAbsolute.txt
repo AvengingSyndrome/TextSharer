@@ -1,0 +1,5 @@
+c:\users\andrew\documents\visual studio 2012\Projects\TextSharer\TextSharer\bin\TextSharer.dll
+c:\users\andrew\documents\visual studio 2012\Projects\TextSharer\TextSharer\bin\TextSharer.pdb
+c:\users\andrew\documents\visual studio 2012\Projects\TextSharer\TextSharer\obj\Debug\TextSharer.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2012\Projects\TextSharer\TextSharer\obj\Debug\TextSharer.dll
+c:\users\andrew\documents\visual studio 2012\Projects\TextSharer\TextSharer\obj\Debug\TextSharer.pdb

@@ -1,0 +1,9 @@
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\NotifyCP\bin\Debug\NotifyCP.exe.config
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\NotifyCP\bin\Debug\NotifyCP.exe
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\NotifyCP\bin\Debug\NotifyCP.pdb
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\NotifyCP\obj\Debug\NotifyCP.Form1.resources
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\NotifyCP\obj\Debug\NotifyCP.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\NotifyCP\obj\Debug\NotifyCP.csproj.GenerateResource.Cache
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\NotifyCP\obj\Debug\NotifyCP.exe
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\NotifyCP\obj\Debug\NotifyCP.pdb
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\NotifyCP\obj\Debug\NotifyCP.csprojResolveAssemblyReference.cache

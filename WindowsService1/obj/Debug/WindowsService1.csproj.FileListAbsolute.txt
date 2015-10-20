@@ -1,0 +1,6 @@
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Andrew\documents\visual studio 2012\Projects\TextSharer\WindowsService1\obj\Debug\WindowsService1.pdb

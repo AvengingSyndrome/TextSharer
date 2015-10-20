@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+    <script>
+        function sendtext() {
+            var xmlHttp = new XMLHttpRequest();
+            xmlHttp.open("POST", "./settext.text?a=s", true);
+            xmlHttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xmlHttp.send("t=" + encodeURIComponent(document.getElementById("txt").value));
+        }
+        var text = "";
+        var sent = false;
+        setInterval(checktext, 1000);
+        function checktext () {
+            if (!sent && text == document.getElementById("txt").value) {
+                sendtext();
+                sent = true;
+            } else if (text != document.getElementById("txt").value) {
+                sent = false
+                text = document.getElementById("txt").value;
+            }
+        }
+    </script>
+<body>
+    <textarea style="width:80%; height:50em;" id="txt" ></textarea>
+    <button onclick="sendtext()"></button>
+</body>
+</html>
